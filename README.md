@@ -12,7 +12,7 @@ As someone who has worked alongside the political sphere for a few years, one of
 # Portfolio
 Below is where all of my work for this course will be posted.
 
-#### [Assignment 2](/dataviz2.html)
+#### [Assignment 2](/RachelF-Portfolio/dataviz2.html)
 
 ### Final Project
 
