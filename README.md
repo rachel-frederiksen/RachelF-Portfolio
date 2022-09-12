@@ -12,8 +12,7 @@ As someone who has worked alongside the political sphere for a few years, one of
 # Portfolio
 Below is where all of my work for this course will be posted.
 
-#### Assignment 2
-[a link](rachel-frederiksen.github.io/RachelF-Portfolio/dataviz.html)
+#### [Assignment 2](rachel-frederiksen.github.io/RachelF-Portfolio/dataviz.html)
 
 ### Final Project
 
