@@ -12,7 +12,7 @@ As someone who has worked alongside the political sphere for a few years, one of
 # Portfolio
 Below is where all of my work for this course will be posted.
 
-#### Critique by Design Assignment
+#### Assignment 2
 
 ### Final Project
 
