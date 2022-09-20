@@ -16,6 +16,8 @@ Below is where all of my work for this course will be posted.
 
 ### [In-Class Tableau Exercise](/RachelF-Portfolio/trustnewsviz.html)
 
+### [Assignment 3 & 4](/RachelF-Portfolio/assignment3-4.html)
+
 #### Final Project _Part 1_
 
 #### Final Project _Part 2_
