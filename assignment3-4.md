@@ -42,4 +42,4 @@ For both sketches, I chose to consolidate the date into total counts of unemploy
 
 Sketch One: For my first sketch, I chose a line graph showcasing the overall trend of data between March 14th and the end of the calendar year. I think this redesign best focuses on what I believe the original visualization was trying to showcase, which is the historic trends over a period of time (as seen visually by the large spike in data toward the beginning of the timeline). A line graph is a common choice for this sort of data representation, and I believe making it appear clean and simple gets that intended message across.
 
-[First sketch, a line graph](https://lh5.googleusercontent.com/8Wt3hQbf_n675y2KoVMvyeRyif-rjqNjMrzsmcsLHB6-qpAv1PYzvzNCLcpdMdXXWIXeh2S6L3zWG-5UtS6MtR4Tw09a5fJaY88ZprZTt9KtiU8FCkKH7_-SyL2EvNYauZpy87UT0WeWzY_rqPJVNYK3A-mPy7QFWAosZl19E99Eoh9A0BtUQZe3qckzTHJH)
+![First sketch, a line graph](https://lh5.googleusercontent.com/8Wt3hQbf_n675y2KoVMvyeRyif-rjqNjMrzsmcsLHB6-qpAv1PYzvzNCLcpdMdXXWIXeh2S6L3zWG-5UtS6MtR4Tw09a5fJaY88ZprZTt9KtiU8FCkKH7_-SyL2EvNYauZpy87UT0WeWzY_rqPJVNYK3A-mPy7QFWAosZl19E99Eoh9A0BtUQZe3qckzTHJH)
