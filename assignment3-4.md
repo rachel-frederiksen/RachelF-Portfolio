@@ -55,3 +55,11 @@ I recruited someone both within my sphere of classmates at CMU (though not someo
 **Student, mid 20’s:** This respondent recognized that the data shown to them in both sketches had to do with unemployment insurance claims related to the pandemic, specifically complimenting the specificity of the titles. Neither sketch was confusing or surprising to this respondent, but they did ask for more clarity in the axis labels as well as the labeling of the dates along the x-axis in the line graph with the addition of adding more dates (potentially) to the bars. Ultimately, this respondent preferred the line graph.
 
 **Young Professional, mid 20s:** This respondent recognized the trend in data first (given the shark incline on the line graph). They elaborated on the trend, pulling dates from the title, and made a point to say that the x-axis on the line graph could be better labeled by dates. It isn’t clear from the sketch, but each tick-mark is one week, so they suggested labeling the months and adding a note to the x-axis label to make that clear. For the bars, they recommended flipping the orientation of the graph entirely so chronological time could be on the x-axis and the values could be on the y-axis. This solved my problem of not knowing when to put dates in order versus putting the bars in order of hierarchy. However, this orientation of the graph might only be helpful for using fewer dates. Adding more dates makes a line graph the better visualization choice. Ultimately, this respondent preferred the line graph.
+
+## STEP 5: Build the Solution
+
+Using my peer critiques from step 4, I created a line graph on Flourish. I modeled my build after my first sketch with more specific axis titles, proper tick-mark labeling along the x-axis, and added some stylistic choices via Flourish's many options to make it more engaging. 
+
+<div class="flourish-embed flourish-chart" data-src="visualisation/11236704"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+
+
