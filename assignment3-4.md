@@ -62,4 +62,10 @@ Using my peer critiques from step 4, I created a line graph on Flourish. I model
 
 <div class="flourish-embed flourish-chart" data-src="visualisation/11236704"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
+I brought this visualization to our class session for one last critique. The notes I received were aesthetic choices mostly. My classmates suggested I remove the hollow dots in favor of a smooth, curved line without any breaks. They also recommended I change the title to show more of a story as the axis-labels were essentially repeating the title. I adopted both of these critiques into my final visualization. Because these changes were relatively minor, I changed the color of the line to better differentiate between the two visualizations. 
 
+<div class="flourish-embed flourish-chart" data-src="visualisation/11239989"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+
+### Final Thoughts
+
+When I first found the original visualization, my main priority was to ease the way for a chart-reader to digest the information given. Trends in unemployment insurance claims data can be connected to plenty of changes in the economy. These historic trends were, of course, triggered by the COVID-19 pandemic and subsequent mitigation strategies such as shutting down public venues or the CARES Act for financial support to now unemployed workers. The original visualization seemed to be wanting to show a lot all at once rather than focusing on the trend itself. I hoped to show this change over time more clearly, and I believe I have succeeded using the simple line chart above. 
