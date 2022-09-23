@@ -22,3 +22,7 @@ Below is where all of my work for this course will be posted.
 
 ### [Assignment 3 & 4](/RachelF-Portfolio/assignment3-4.html)
 
+## Final Project
+
+### [Final Project Part 1](/RachelF-Portfolio/final_project_RachelFrederiksen.html)
+
