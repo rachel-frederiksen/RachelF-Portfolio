@@ -7,11 +7,13 @@
 **Summary:** I am interested in showing the history of Right-to-Work (RTW) legislation as it's been implemented over time with the decline in approval of unions compared to the recent increase in unionization efforts across the U.S.
 
 **Profile Structure:** 
-![Profile Structure Image](https://ci3.googleusercontent.com/mail-img-att/AFCqZUQnJM3uGSnlqqdliTJ6xyFp9XfczqAu3TLEFC03YZ4taSEsVk2WvYOiM77ecIV7S5t2HxB4MqmFT3jqK90zpUKPhRakW8sg3izN78zcuI3WAJ05KDAxrlLZvqEA1rk3F2pIcEskQdWUjY68OxWFno-SAjuzavYAJGzEGAZWxXh9JBrGOYksCGDoD_MBzo3IQdJWDSuQC-akBWltoyt6bQ6c_CVcxjgyn-jnxe66PY8Qdho1JUHWzkVuBsV0EW-_ZEpH9zyOdD29BjfPaZmW_yQicsJeNVq6RrjXzlkTrisNLPNBn_M-CMoHy82zYYuNfgJuBHcU4_BlVFlj8_w6CCfOVhBeIxuxe80faXKxL1NykddIlbClUg9fS4fv2TYVUaK2O7_W8597-gJf5M28xXkdXZC-TVdVUyzEO-pm2tmfGZykaP8kavsalnbgCdkotkvX42cAkYhY9Mc6JPoZm6pxMy4CrFZ67ZUvmH5ec5CK8PZso-auRviyo5_onO4rMQdkOJr12VilaYpJxkhUlCiqJNCGjcSz16jAIJIo0Gc1kPMjzoqhhIWO02kR4vBj-VL6ogS14t9v7kijzsSGeVgZWoLvCO3HXGtT9idzHT_eoN-3dpGJS3zKKWM3I1rESqAnCusiqmS4ljJsID953zFtkOY5D_iHzJIDExv5o8GGpSnKdo4aXZXM6d4t-dQZWUfdVQRSNKWGvwG4gCFJh5JqBYNGQqu2t-nPHkvPSe3haCgUQQ60DPGGSXzcrttcLS2MjJGYtd2TmST_DRJ7QntOp8Q5mwS8Kh7cvIELKqVFXmKH7dk-DIkWH76c6fW4V8iC5qOMUbz10EDwrB7VUimCV7nT4DmNfnzojxdBkpmS_TBtFWvDC4PusY65az5TDKP8LiQPUoaQ0qhCW32Jl-GN3lr9RlpXRwe2YKMyik28v-9c26Tez6XHCQdurWNmEB12ZbD-NKvWabzrdiRgGd-86U-JetspQF9KBEbIGtX_S6YVuBY0ZjRhqXvRV9Bx3-w=s0-l75-ft)
+![Profile Structure Image](https://mail.google.com/mail/u/0?ui=2&ik=b4f04083b0&attid=0.1.1&permmsgid=msg-f:1744808977723031901&th=1836ce855618015d&view=fimg&fur=ip&sz=s0-l75-ft&attbid=ANGjdJ9ONg7fBEBAJ3Tr05qJCeFBiIvIG_zV8evPotZrEDhCZ24rTiZOVXx26BQplfLafEHApDk0DGfyBae4hPo1yfbKNmHDiQfJ4ETp4Al0KaK4FY87KTVa-DLBLEk&disp=emb)
 
 In this project, I hope to help continue the upward trend of unionization efforts across the U.S., or just increase the general approval of them.
 
 ### Initial Sketches
+
+![Initial Sketches Image](/https://mail.google.com/mail/u/0?ui=2&ik=b4f04083b0&attid=0.1.1&permmsgid=msg-f:1745137896187230909&th=1837f9aba24ffabd&view=fimg&fur=ip&sz=s0-l75-ft&attbid=ANGjdJ-oARzmgkfdbOTInsCg0QvaTPm6UY9SHDbVSGm5IvaaOBzhGx1KAjouzP7qpEc3Tg9oSSlKbjd3w8KAigBogrx25oZ78sLhR52jKhWn1mltNDnlpstr72saxTc&disp=emb)
 
 ### The Data
 
