@@ -17,10 +17,15 @@ In this project, I hope to help continue the upward trend of unionization effort
 ![image](https://user-images.githubusercontent.com/112908888/192574865-4d93fb25-95fa-4569-9a35-dd18b8e01d65.png)
 
 **Image 1.** An area chart comparing the growing count of RTW states over time. 
+
 **Image 2.** A chloropleth map to compare states with RTW legislation and states without, potentially with a graduated color scheme to show which states (as of 2022) have had RTW legislation for the longest length of time.
+
 **Image 3.** A line chart showing the decrease in rate of unionization over time (the same amount of time used in image 1).
+
 **Image 4.** A chloropleth map using a graduated color scheme to show the decrease of unionization rates across the U.s.
+
 **Image 5.** A comparison line graph showing the approval and disapproval ratings of unions over time, preferably the same length of time as image 1 and 3 for consistency.
+
 **Image 6.** Finally, a chloropleth map with either points OR a graduated color scheme showing the counts of unionized Starbucks locations across the U.S.
 
 ### The Data
