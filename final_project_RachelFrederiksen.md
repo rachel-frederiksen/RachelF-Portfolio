@@ -11,4 +11,12 @@
 
 In this project, I hope to help continue the upward trend of unionization efforts across the U.S., or just increase the general approval of them.
 
+### Initial Sketches
 
+### The Data
+
+To introduce RTW legislation, I will be pulling data from the National Right to Work Committee's [timeline](/https://nrtwc.org/facts/state-right-to-work-timeline-2016/) on when states adopted RTW legislation to solidify the steady approach at deligitmizing unions in the United States since the Taft-Hartley Act. I would also use this data to identify which states currently have RTW legislation as of 2022 to compare them to non-RTW states. I will be using data from the [Bureau of Labor Statistics](/https://www.bls.gov/spotlight/2016/union-membership-in-the-united-states/home.htmin) order to then show the decline in union membership over time as a result of RTW legislation. I will then showcase the turn in union membership by using rising approval numbers from [Gallup](/https://news.gallup.com/poll/12751/labor-unions.aspx) supported by public data on some of the more famous cases of organizing in [Starbucks](/https://unionelections.org/data/starbucks/). 
+
+I hope to use this data to adequately showcase the opposition to unionization efforts in the United States, but also to recognize that workers are actively fighting back in order to focus on my call to action, which is that workers should know about their options to organize in their workplaces.
+
+### Method and Medium
