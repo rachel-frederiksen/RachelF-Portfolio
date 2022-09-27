@@ -8,7 +8,7 @@
 
 **Profile Structure:** 
 
-[image](https://user-images.githubusercontent.com/112908888/192574519-94d62e8a-d276-40b0-951c-db2d43caf729.png)
+![image](https://user-images.githubusercontent.com/112908888/192574519-94d62e8a-d276-40b0-951c-db2d43caf729.png)
 
 In this project, I hope to help continue the upward trend of unionization efforts across the U.S., or just increase the general approval of them.
 
