@@ -14,7 +14,7 @@ In this project, I hope to help continue the upward trend of unionization effort
 
 ### Initial Sketches
 
-![Initial Sketches Image](/https://mail.google.com/mail/u/0?ui=2&ik=b4f04083b0&attid=0.1.1&permmsgid=msg-f:1745137896187230909&th=1837f9aba24ffabd&view=fimg&fur=ip&sz=s0-l75-ft&attbid=ANGjdJ-oARzmgkfdbOTInsCg0QvaTPm6UY9SHDbVSGm5IvaaOBzhGx1KAjouzP7qpEc3Tg9oSSlKbjd3w8KAigBogrx25oZ78sLhR52jKhWn1mltNDnlpstr72saxTc&disp=emb)
+![image](https://user-images.githubusercontent.com/112908888/192574865-4d93fb25-95fa-4569-9a35-dd18b8e01d65.png)
 
 ### The Data
 
