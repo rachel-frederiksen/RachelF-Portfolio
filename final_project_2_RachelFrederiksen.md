@@ -35,7 +35,7 @@ After this visualization, I may introduce some information regarding the tension
 
 ### Resolution
 
-A systemic problem can seem too daunting to solve, so I want to prioritize showing how 
+A systemic problem can seem too daunting to solve, so I want to prioritize showing how things can and have already changed. Union approval ratings are at an all time high, showing that people are no longer as turned off by 
 
 Image 5: 
 <div class="flourish-embed flourish-chart" data-src="visualisation/11373153"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
