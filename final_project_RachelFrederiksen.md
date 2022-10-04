@@ -1,7 +1,7 @@
-# Final Project Part One
+# Final Project Part 1
 
-#### Final Project Part Two
-#### Final Project Part Three
+#### [Final Project Part 2](/RachelF-Portfolio/final_project_2_RachelFrederiksen.html)
+#### [Final Project Part 3](/RachelF-Portfolio/final_project_3_RachelFrederiksen.html)
 
 ## Story Outline
 
