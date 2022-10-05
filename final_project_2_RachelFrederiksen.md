@@ -20,13 +20,13 @@ I will use the image above to introduce the story with the passing of the Taft-H
 **Viz 1:** 
 <div class="flourish-embed flourish-chart" data-src="visualisation/11373594"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
-This visualization shows the cumulative count of states that have adopted RTW legislation over time (1944 to 2017). Clearly there is an uphill trend in RTW legislation across the U.S. 
+This visualization shows the cumulative count of states that have adopted RTW legislation over time (1944 to 2017). Clearly there is an uphill trend in RTW legislation across the U.S. Considering the context of why the Taft-Hartley Act was enacted and the speed in which states were enacting RTW legislation, it begs the question if this was about supporting workers or about destabilizing powerful unions who were stopping employers from taking advantage of their employees.
 
 After this visualization, I will use isolation as a persuasive tactic using the image below to highlight that over half of states in the U.S. now have RTW legislation, effectively preventing strong unions from forming in those states. 
 
-[Half Image](https://unsplash.com/photos/f8rG32kq9C4)
+[States Image](https://unsplash.com/photos/hAJhORQHk94)
 
-This transitions into my second visualization (image 2) as raw numbers can struggle to convey how much area is covered by this legislation.
+This transitions into my second visualization (image 2) as raw numbers can struggle to convey how much area is covered by this legislation. Using a map brings focus to what states exactly have this legislation. Someone with further electoral knowledge of this map may then gather that the states with this legislation are often states with predominately conservative state governments. Further research could be done in this area to compare metrics RTW and non-RTW states, but that is beyond the scope of this presentation. 
 
 Image 2: 
 <div class="flourish-embed flourish-map" data-src="visualisation/11372048"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
@@ -36,11 +36,15 @@ As a product of RTW legislation implementation, union membership has decreased o
 Image 3: 
 <div class="flourish-embed flourish-chart" data-src="visualisation/11373936"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
-After this visualization, I will highlight a key point through isolation again that union membership rates have essentially cut in half in this length of time (~20% to 11%). This concludes the setup portion of the story. Decreased unionization rates are not necessarily a bad thing. At this point, I am just conveying that RTW legislation has led to the decrease in union membership across the U.S. 
+After this visualization, I will highlight a key point through isolation again that union membership rates have essentially cut in half in this length of time (~20% to 11%) using the image below.
+
+[Half Image](https://unsplash.com/photos/f8rG32kq9C4)
+
+This concludes the setup portion of the story. Decreased unionization rates are not necessarily a bad thing. At this point, I am just conveying that RTW legislation has led to the decrease in union membership across the U.S. 
 
 ### Conflict
 
-I will then transition into the conflict portion of the story, highlighting how nonunionized workers (on average) earn less than their unionized counterparts. If the original proponents for RTW legislation had any interest in paying their workers less in the long run, this may be a problematic connection to discover. Even if the intent wasn't malicious, lower union membership rates connects to more workers being paid less. I will then use my fourth visualization (image 4) to show that difference much more visually.
+I will then transition into the conflict portion of the story, highlighting how nonunionized workers (on average) earn less than their unionized counterparts. If the original proponents for RTW legislation had any interest in paying their workers less in the long run, this may be a problematic connection to discover. Even if the intent wasn't malicious, lower union membership rates connects to more workers being paid less. Again, given the context of the 113-day strike of automotive workers, the connotations are not really positive. I will then use my fourth visualization (image 4) to show that difference much more visually.
 
 Image 4: 
 <div class="flourish-embed flourish-chart" data-src="visualisation/11374068"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
@@ -49,10 +53,32 @@ After this visualization, I may introduce some information regarding the tension
 
 ### Resolution
 
-A systemic problem can seem too daunting to solve, so I want to prioritize showing how things can and have already changed. Union approval ratings are at an all time high, showing that people are no longer as turned off by 
+A systemic problem can seem too daunting to solve, so I want to prioritize showing how things can and have already changed. Union approval ratings are at an all time high, showing that people are no longer as turned off by the thought of unions. Given the past ~80 years of anti-union sentiment in legislation, seeing approval ratings increase is an incredible win for organizers.
 
 Image 5: 
 <div class="flourish-embed flourish-chart" data-src="visualisation/11373153"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
+How has an increased approval rating in unions really impacted the current labor market, though? Plenty of Americans approve of things without those topics ending up as political legislation or actual movements that create change. This is where the story of Starbucks comes in. 
+
+On December 9th, 2021, in Buffalo, New York, the very first Starbucks location unionized [Source](https://www.vox.com/recode/22825850/starbucks-union-first-organizing-vote-nlrb). I will be using this date as well as a quote from the article to convey the beginning of a movement. The quote is as follows: [“Sometimes strikes and union organizing victories can be very contagious,” said Johnnie Kallas, a PhD candidate at Cornell’s Industrial and Labor Relations school]
+
+[Coffee Image](https://unsplash.com/photos/l24eJZ9cIQk)
+[Barista Image](https://unsplash.com/photos/n-HtQS7IgU4)
+
+Less than a year ago, the first Starbucks location unionized. Since then, over 200 stores have successfully won their union elections. That contagious nature has officially taken hold.
+
 Image 6:
 <div class="flourish-embed flourish-chart" data-src="visualisation/11373393"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+
+Starbucks has officially opened the door for workers across the U.S. to get involved, to quit accepting the poor working conditions they are in, and to organize despite the previously successful pushback RTW legislation had on states. RTW legislation doesn't prevent you from unionizing, it just makes it harder. These workers aren't giving up. Not just Starbucks employees either. Anywhere from Amazon to REI to Chipotle, workers are standing up and fighting back. So much so that in the past year alone (as of August 30th, 2022), unions have won more elections than they have in the past twenty years. [Source](https://www.vox.com/recode/2022/8/30/23326654/2022-union-charts-elections-wins-strikes)
+
+**Call to Action**
+
+If you're concerned about the environment of your workplace, organizing might just be a viable option for you and your coworkers. Accepting lower wages, minimal benefits, or bad working conditions no longer needs to be the norm. Consider a union today.
+
+Applicable Resources:
+1. Resource Page [AFL-CIO Resource Page](https://aflcio.org/formaunion)
+2. A Focus on Step 1 [Roadmap for Unionizing](https://uniontrack.com/blog/roadmap-for-unionizing-first-steps)
+3. What to look out for [Union-Busting Tactics](https://www.laborlab.us/5_common_union_busting_tactics)
+
+[Teamsters Image](https://unsplash.com/photos/455LJpC2sIM) 
