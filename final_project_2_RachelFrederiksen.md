@@ -82,3 +82,19 @@ Applicable Resources:
 3. What to look out for [Union-Busting Tactics](https://www.laborlab.us/5_common_union_busting_tactics)
 
 [Teamsters Image](https://unsplash.com/photos/455LJpC2sIM) 
+
+## User Protocol Feedback
+
+**Target Audience:** My target audience are those on the fence about unionizing, especially in the wave of unionization efforts across the U.S. currently. 
+
+**Identifying Approach:** Similar to my previous conducted interviews, I am approaching gathering feedback in the same way. I want some respondents to have some knowledge of unionization efforts as well as data visualization in general, but I also want some respondents to have a minimal understanding of both. My respondents are a mixture of current graduate students and young professionals, all of which are between the ages of 23 and 28.
+
+**Interview Script:**
+1. Who do you believe is the target audience?
+2. For each image (1-6), describe what you're being told and if there are any areas of confusion.
+3. Was any information presented to you new? If you learned something, what was it?
+4. If you could fix one thing throughout the presentation, what would it be?
+
+**Feedback:**
+
+*Young Professional, 23*: The first respondant understood who the target audience was fairly early on in the presentation. Regarding the two line graphs and one area graph, they made a point to comment that the pop-up bars are not as clearly defined as they could be. While an axis label may list something as a %, the pop-up box does not, and it drew their eye away from the information and back toward the labels instead. This respondant really enjoyed the Starbucks visualization as well as the associated imagery. They also offered some advice for Shorthand's Reveal template (the black and white transition filter specificaly), that I will be checking out. This respondant was both shocked and happy to see the sheer volume of organizing in 2022 and praised my resolution for being adequately positive after such a potentially disheartening setup. Their one fix was to clarify the pop-up labels on the previously mentioned graphs as the ability to be interactive with them feels lost when the pop-ups aren't clear. 
