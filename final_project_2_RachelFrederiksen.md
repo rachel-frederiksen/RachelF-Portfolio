@@ -91,7 +91,7 @@ Applicable Resources:
 
 **Interview Script:**
 1. Who do you believe is the target audience?
-2. For each image (1-6), describe what you're being told and if there are any areas of confusion.
+2. For each viz (1-6), describe what you're being told and if there are any areas of confusion.
 3. Was any information presented to you new? If you learned something, what was it?
 4. If you could fix one thing throughout the presentation, what would it be?
 
@@ -115,4 +115,4 @@ I am definitely going to change the pop-up labels after this user feedback. Whil
 
 I was happy to see that my audience was clear to my respondents through the presentation itself. I know I will need to pick a really strong title to assist in that, and I am considering asking the three of them again for a mini-interview about some options that I have just for consistency sake since they viewed the presentation without any formal title. I think this shows that my topic has a clear story, both chronologically by starting at the enaction of the Taft-Hartley Act in the 40s and concluding in unionization efforts today, but also that it all seems to fit together. Hopefully my in-class presentation will also convey that same story, albiet shorter.
 
-*Project Changes:* the pop-up labels, highlighting the 113-day strike, adjusting the order of the statistics and their corresponding visualizations, and tying in more text-context in the conflict section rather than an additional visualization
+*Project Changes:* the pop-up labels, highlighting the 113-day strike, adjusting the order of the statistics and their corresponding visualizations, and tying in more text-context in the conflict section rather than an additional visualization.
