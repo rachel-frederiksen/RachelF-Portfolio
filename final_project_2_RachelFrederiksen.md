@@ -13,7 +13,7 @@ Labor unions are groups of workers who organize together in support of their own
 
 RTW legislation is framed to be in support of workers. By providing people the "right to work", this legislation simplifies union dues to paying to go to work. It works by stopping unions from collecting dues from anyone who does not want to pay them. This supports workers that weren't members of their unions who didn't want to pay dues, but it also targets new workers into being apprehensive of joining their unions in the first place. Nobody wants to pay to go to work. On a simplified level, that does seem ludacris. 
 
-[Taft-Hartley Image](https://images.unsplash.com/photo-1606408251833-883be0862848?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80)
+[Taft-Hartley Image](https://unsplash.com/photos/SYHi8oX0JC8)
 
 I will use the image above to introduce the story with the passing of the Taft-Hartley Act in 1947. This was federal legislation that addressed the power of labor unions in the aftermath of a 113-day automotive worker strike after WW2. Labor unions were no longer allowed to gather dues from anyone who didn't wish to pay them. [Source](https://www.influencewatch.org/legislation/labor-management-relations-act-of-1947-taft-hartley-act/)
 
@@ -22,7 +22,11 @@ I will use the image above to introduce the story with the passing of the Taft-H
 
 This visualization shows the cumulative count of states that have adopted RTW legislation over time (1944 to 2017). Clearly there is an uphill trend in RTW legislation across the U.S. 
 
-After this visualization, I will use isolation as a persuasive tactic to highlight that over half of states in the U.S. now have RTW legislation, effectively preventing strong unions from forming in those states. This transitions into my second visualization (image 2) as raw numbers can struggle to convey how much area is covered by this legislation.
+After this visualization, I will use isolation as a persuasive tactic using the image below to highlight that over half of states in the U.S. now have RTW legislation, effectively preventing strong unions from forming in those states. 
+
+[Half Image](https://unsplash.com/photos/f8rG32kq9C4)
+
+This transitions into my second visualization (image 2) as raw numbers can struggle to convey how much area is covered by this legislation.
 
 Image 2: 
 <div class="flourish-embed flourish-map" data-src="visualisation/11372048"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
