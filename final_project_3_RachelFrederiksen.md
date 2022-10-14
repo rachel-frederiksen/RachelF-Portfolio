@@ -3,7 +3,7 @@
 #### [Final Project Part 1](/RachelF-Portfolio/final_project_RachelFrederiksen.html)
 #### [Final Project Part 2](/RachelF-Portfolio/final_project_2_RachelFrederiksen.html)
 
-## Access my Shorthand Story: [Pro-Union. Pro-Worker](https://carnegiemellon.shorthandstories.com/pro-union-pro-worker/index.html#group-section-Our-Future-H5dZK2yJa4)
+## Access my Shorthand Story: [Pro-Union. Pro-Worker](https://carnegiemellon.shorthandstories.com/pro-union-pro-worker/)
 
 ### Implemented Changes
 
