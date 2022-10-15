@@ -39,5 +39,5 @@ I hope to use this data to adequately showcase the opposition to unionization ef
 
 ### Method and Medium
 
-I plan on using Shorthand, but I will also be at least attempting Esri's StoryMaps. I am currently in GIS and have some familiarity with that platform now, so I would like to incorporate my external knowledge into this class as well. I am fine with using Shorthand if that doesn't go to plan. I also plan on using Flourish for my visualizations primarily, but again if the need arises, I can switch to Tablaeu. 
+I plan on using Shorthand, but I will also be at least attempting Esri's StoryMaps. I am currently in GIS and have some familiarity with that platform now, so I would like to incorporate my external knowledge into this class as well. I am fine with using Shorthand if that doesn't go to plan. I also plan on using Flourish for my visualizations primarily, but again if the need arises, I will switch to Tableau. 
 
